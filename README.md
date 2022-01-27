@@ -1,3 +1,3 @@
 # yujie-fang.github.io
 Yujie Fang's Homepage
-[Homepage Link](https://yujie-fang.github.io)
+[Homepage Link](http://yujie-fang.github.io)
